@@ -1,0 +1,160 @@
+  842  git --version
+  843  git config --global core.autocrlf input
+  844  git config --global core.editor "nano -w"
+  845  pwd
+  846  cd ~/Desktop/
+  847  mkdir planets
+  848  cd planets/
+  849  ls
+  850  git init
+  851  ls
+  852  ls -a
+  853  git status
+  854  ls
+  855  mkdir moons
+  856  la
+  857  ls
+  858  cd moons
+  859  git init
+  860  ls -a
+  861  cd ../
+  862  ls -a
+  863  cd moons
+  864  rm -rf .git
+  865  ls -a
+  866  cd ..
+  867  ls -a
+  868  pwd
+  869  pwd
+  870  nano mars.txt
+  871  ls
+  872  cat mars.txt
+  873  git status
+  874  git add mars.txt
+  875  gi status
+  876  git status
+  877  git commit -m "Start notes on Mars as a base"
+  878  git status
+  879  git log
+  880  pwd
+  881  nano mars.txt
+  882  git add mars.txt
+  883  git status
+  884  nano mars.txt
+  885  git status
+  886  git add mars.txt
+  887  git status
+  888  git commit -m "Adding a word and excalamation point"
+  889  git log
+  890  nano mars.txt 
+  891  clear
+  892  cat mars.txt 
+  893  git status
+  894  git diff
+  895  git commit -m "Add concerns about effects of Mars's moons on Wolfman"
+  896  git add mars.txt 
+  897  git commit -m "Added concerns about effects of Mars's moons on Wolfman"
+  898  nano mars.txt 
+  899  cat mars.txt
+  900  git diff
+  901  git add mars.txt
+  902  git diff
+  903  git diff --staged
+  904  git commit -m "Discussed the humidity"
+  905  git status
+  906  git log
+  907  git log --oneline
+  908  nano mars.txt
+  909  git status
+  910  git add mars.txt
+  911  git commit -m "Added that everyone on Mars lives happily ever after"
+  912  git status
+  913  git log
+  914  git status
+  915  nano venus.txt
+  916  git status
+  917  git diff
+  918  git add venus.txt
+  919  git commit -m "Created a Venus file. Mummy and Wolfman also travel to Venus."
+  920  git diff
+  921  git status
+  922  git log
+  923  git diff --staged
+  924  git diff
+  925  git diff --oneline
+  926  nano venus.txt
+  927   git diff
+  928  git diff --staged
+  929  git status
+  930  git add venus.txt
+  931  git commit -m "Adds an update to their status on Venus"
+  932  git status
+  933  git diff --staged
+  934  git log
+  935  git status
+  936  pwd
+  937  ls -atl
+  938  cat venus.txt
+  939  ls -alt
+  940  ls -atl moons
+  941  git diff
+  942  nano mars.txt
+  943  nano venus.txt 
+  944  git status
+  945  git diff
+  946  git add mars.txt venus.txt
+  947  git status
+  948  git diff
+  949  git diff --staged
+  950  clear
+  951  git status
+  952  git commit -m "Started notes on Venus"
+  953  git status
+  954  nano mars.txt
+  955  cat mars.txt
+  956  git diff mars.txt
+  957  git diff HEAD mars.txt
+  958  git diff HEAD~1 mars.txt
+  959  git diff HEAD~3 mars.txt
+  960  nano mars.txt
+  961  git add mars.txt
+  962  git commit -m "Deleted the line about Venus"
+  963  git diff
+  964  nano mars.txt
+  965  git add mars.txt
+  966  git commit -m "Deleted the line about Venus and added it"
+  967  git diff
+  968  git status
+  969  git log
+  970  git diff 96fd44097d9071e3a8b470423ed9ac6e1967d89c mars.txt
+  971  nano mars.txt
+  972  cat mars.txt
+  973  git status
+  974* git checkout HEAD mars.txtg
+  975  cat mars.txt
+  976  git checkout master
+  977  git log
+  978  mkdir results
+  979  ls
+  980  touch a.dat b.dat c.dat results/a.out results/b.out
+  981  ls
+  982  ls results
+  983  nano .gitignore
+  984  cat .gitignore
+  985  git status
+  986  mv .gitignore abc
+  987  git status
+  988  mv abc .gitignore
+  989  git status
+  990  git add .gitignore 
+  991  git commit -m "Ignore status and results"
+  992  git status
+  993  pwd
+  994  ls -atl
+  995  history | tail -60
+  996  history | tail -80
+  997  history | tail -80 | more
+  998  history | tail -180 | more
+  999  history | tail -150 | more
+ 1000  history | tail -160 | more
+ 1001  history | tail -160 > version_control_with_Git.log
