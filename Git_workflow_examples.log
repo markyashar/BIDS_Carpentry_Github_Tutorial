@@ -1,0 +1,95 @@
+ 1004  git add version_control_with_Git.log
+ 1005  git status
+ 1006  git commit -m "added version_control_with_Git.log file"
+ 1007  git status
+ 1008  git diff
+ 1009  git remote add origin https://github.com/markyashar/Planets.git
+ 1010  git push -u origin master
+ 1011  pwd
+ 1012  ls -atl
+ 1013  git help push
+ 1014  pwd
+ 1015  pwd
+ 1016  cd ../
+ 1017  pwd
+ 1018  pwd
+ 1019  git clone https://github.com/anchalmehra/BIDS.git partner
+ 1020  ls
+ 1021  cd partner
+ 1022  ls -atl
+ 1023  nano venus.txt
+ 1024  git diff
+ 1025  git add -p
+ 1026  pwd
+ 1027  cat venus.txt
+ 1028  git commit -m "Added thoughts about Venus's weather"
+ 1029  git status
+ 1030  git diff
+ 1031  cat venus.txt
+ 1032  pwd
+ 1033  git log
+ 1034  ls -alt
+ 1035  git push
+ 1036  cd ..
+ 1037  cd planets
+ 1038  ls -alt
+ 1039  git pull
+ 1040  ls 
+ 1041  pwd
+ 1042  ls -atl ../partner/
+ 1043  ls
+ 1044  cd ..
+ 1045  cd partner
+ 1046  ls
+ 1047  nano venus.txt 
+ 1048  git push
+ 1049  git config -e
+ 1050  pwd
+ 1051  ls -atl
+ 1052  git status
+ 1053  git add venus.txt
+ 1054  git commit -m "Added notes about utility of umberllas"
+ 1055  git status
+ 1056  cd ..
+ 1057  cd planets
+ 1058  ls
+ 1059  nano venus.txt
+ 1060  git statu
+ 1061  git status
+ 1062  git add venus.txt
+ 1063  git commit -m "Added line about joy"
+ 1064  git status
+ 1065  git pull
+ 1066  git status
+ 1067  nano venus.txt 
+ 1068  git status
+ 1069  git diff
+ 1070  git add venus.txt
+ 1071  git status
+ 1072  git commit 
+ 1073  git commit
+ 1074  git log
+ 1075  git log --graph
+ 1076  git push
+ 1077  pwd
+ 1078  ls -atl
+ 1079  git blame venus.txt
+ 1080  git config -e
+ 1081  git config -e --global
+ 1082  pwd
+ 1083  ls -a
+ 1084  nano README.md
+ 1085  git add README.md 
+ 1086  git status
+ 1087  git commit
+ 1088  git commit -m "Adding README.md"
+ 1089  git status
+ 1090  git diff
+ 1091  git push
+ 1092  pwd
+ 1093  history | last -140 | more
+ 1094  history | tail -140 | more
+ 1095  history | tail -100 | more
+ 1096  history | tail -90 | more
+ 1097  history | tail -95 | more
+ 1098  history | tail -95 > Git_workflow_examples.log
