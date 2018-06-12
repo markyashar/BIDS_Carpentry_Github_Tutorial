@@ -10,3 +10,16 @@ University of California, Berkeley
 190 Doe Library
 Berkeley, CA 94720
 
+---------
+
+Syllabus:
+
+* Creating a repository
+* Recording changes to files: add,commit,...
+* Viewing changes: status,diff,...
+* Ignoring files
+* Working on the web: cline,pull,push,...
+* Resolving conflicts
+* Open licenses
+* Where to work, and why
+
