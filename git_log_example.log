@@ -1,0 +1,122 @@
+# Here is example output from the 'git log' command:
+
+commit 85ea3b7cbe8794b019c2ab75d1ecee58bafe98c9
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 18:31:50 2018 -0700
+
+    Updates to README.md
+
+commit 876c8da643e86ae42d5e191317aa523881ddc323
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 18:14:07 2018 -0700
+
+    Updated README file
+
+commit 943061360e0186dbe847089e68345926479308de
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 17:59:40 2018 -0700
+
+    Adding another history log file of git examples
+
+commit a254626352a04e86af76bec7819c2dbdf7cc2f93
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 16:28:15 2018 -0700
+
+    Adding README.md
+
+commit 9a845573932e71b7b41b484527c6fbd09ec0d6a2
+Merge: 759edae e3ece50
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 16:13:38 2018 -0700
+
+    Merge branch 'master' of https://github.com/markyashar/Planets
+
+commit 759edae45d6546ab5f35561bb48f7ccf9695bf42
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 16:05:06 2018 -0700
+
+    Added line about joy
+
+commit e3ece501bef09adae6670a50c79e161cf42cc19d
+Author: anchal <anchalmehra@berkeley.edu>
+Date:   Mon Jun 11 16:00:07 2018 -0700
+
+    Added note about considering return to Mars.
+
+commit 15bfc53bac716d761c4c353357920cc22c8b924c
+Author: anchal <anchalmehra@berkeley.edu>
+Date:   Mon Jun 11 15:45:21 2018 -0700
+
+    Modified wolfman and mummy preferences
+
+commit 814f3fe0e7d535c168fb1c564242963962e5f385
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 15:02:28 2018 -0700
+
+    added version_control_with_Git.log file
+
+commit c1b38dd5c97435260e4dda9d07536e67d4877f48
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:55:00 2018 -0700
+
+    Ignore status and results
+
+commit 3127c42f8e505429059c6b7da5492afe71fa7f0d
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:36:26 2018 -0700
+
+    Deleted the line about Venus and added it
+
+commit 60d23450bfeebefe05ec3a5b78d14a0eb78af26b
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:35:32 2018 -0700
+
+    Deleted the line about Venus
+
+commit 2fb5c0c5f186e071214ca8e5c6c2881d19f3d4ef
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:28:46 2018 -0700
+
+    Started notes on Venus
+
+commit e1ae00b19758d6f0fa55cfda6aec1fdd2acc85db
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:21:41 2018 -0700
+
+    Adds an update to their status on Venus
+
+commit 161d7b7ae474da0b4c7c3b7b03a4b97b2eb41ac5
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:18:53 2018 -0700
+
+    Created a Venus file. Mummy and Wolfman also travel to Venus.
+
+commit 719c962c0731d1be88c6c40f658bc28b10fa46d3
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:16:45 2018 -0700
+
+    Added that everyone on Mars lives happily ever after
+
+commit 193c7ee71f519e220468d1422ad1ece2130074f9
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:12:46 2018 -0700
+
+    Discussed the humidity
+
+commit 96fd44097d9071e3a8b470423ed9ac6e1967d89c
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:08:58 2018 -0700
+
+    Added concerns about effects of Mars's moons on Wolfman
+
+commit 1ac8deb662b0e2f2594d86b02da5f452b6d03d5e
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 14:02:23 2018 -0700
+
+    Adding a word and excalamation point
+
+commit 3497e1001107806c01dd63857b71ac7879d58461
+Author: Mark Yashar <mark.yashar@gmail.com>
+Date:   Mon Jun 11 13:56:32 2018 -0700
+
+    Start notes on Mars as a base
