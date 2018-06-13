@@ -10,6 +10,8 @@ University of California, Berkeley
 190 Doe Library
 Berkeley, CA 94720
 
+Workshopt Website: https://bids.github.io/2018-06-11-bids
+
 ---------
 
 Syllabus:
