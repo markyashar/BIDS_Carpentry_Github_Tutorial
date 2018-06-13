@@ -1,4 +1,4 @@
-Software Carpentry test GitHub repository for BIDS (UC Berkeley)
+Software Carpentry Workshop test GitHub repository for BIDS (UC Berkeley)
 
 This repository includes example and practice commands and files used in version
 control with Git and related Git workflow exercises carried out at:
