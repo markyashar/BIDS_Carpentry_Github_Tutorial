@@ -11,7 +11,7 @@ University of California, Berkeley
 Berkeley, CA 94720
 
 Workshopt Website: https://bids.github.io/2018-06-11-bids
-
+See also Software Carpentry Etherpad: http://pad.software-carpentry.org/Berkeley-06-11
 ---------
 
 Syllabus:
