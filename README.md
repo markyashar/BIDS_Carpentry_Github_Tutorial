@@ -13,6 +13,11 @@ Berkeley, CA 94720
 * Workshop Website: https://bids.github.io/2018-06-11-bids
 
 * Software Carpentry Etherpad: http://pad.software-carpentry.org/Berkeley-06-11
+
+* Link to Instructor Guide: http://swcarpentry.github.io/git-novice/
+
+* Git Cheatsheets for Quick Reference: http://swcarpentry.github.io/git-novice/reference/
+
 ---------
 
 Syllabus:

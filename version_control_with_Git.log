@@ -1,5 +1,5 @@
   842  git --version
-  843  git config --global core.autocrlf input
+  843  git config --global core.autocrlf input  
   844  git config --global core.editor "nano -w"
   845  pwd
   846  cd ~/Desktop/
@@ -151,10 +151,5 @@
   992  git status
   993  pwd
   994  ls -atl
-  995  history | tail -60
-  996  history | tail -80
-  997  history | tail -80 | more
-  998  history | tail -180 | more
-  999  history | tail -150 | more
- 1000  history | tail -160 | more
+...
  1001  history | tail -160 > version_control_with_Git.log
