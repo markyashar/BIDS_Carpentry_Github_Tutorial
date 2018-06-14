@@ -32,3 +32,9 @@ Syllabus:
 * Where to work, and why
 
 
+Repository contents include:
+
+* Git_workflow_examples.log -- history log file of git commands and examples
+* version_control_with_Git.log -- another history log file of git commands and examples
+* git_log_example.log -- example output from the 'git log' command
+* Version_Control_Git_Notes.pdf -- workshop notes
