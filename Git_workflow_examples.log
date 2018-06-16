@@ -54,7 +54,7 @@
  1057  cd planets
  1058  ls
  1059  nano venus.txt
- 1060  git statu
+ ...
  1061  git status
  1062  git add venus.txt
  1063  git commit -m "Added line about joy"
@@ -87,9 +87,5 @@
  1090  git diff
  1091  git push
  1092  pwd
- 1093  history | last -140 | more
- 1094  history | tail -140 | more
- 1095  history | tail -100 | more
- 1096  history | tail -90 | more
- 1097  history | tail -95 | more
+... 
  1098  history | tail -95 > Git_workflow_examples.log
