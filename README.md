@@ -21,16 +21,21 @@ Berkeley, CA 94720
 ---------
 
 Syllabus:
-
-* Creating a repository
-* Recording changes to files: add,commit,...
-* Viewing changes: status,diff,...
-* Ignoring files
-* Working on the web: clone,pull,push,...
-* Resolving conflicts
-* Open licenses
-* Where to work, and why
-
+0. Setup: http://swcarpentry.github.io/git-novice/setup.html
+1. Automated Version Control: http://swcarpentry.github.io/git-novice/01-basics/index.html
+2. Setting Up Git: http://swcarpentry.github.io/git-novice/02-setup/index.html
+3. Creating a repository: http://swcarpentry.github.io/git-novice/03-create/index.html
+4. Recording and Tracking changes to files: add,commit,...: http://swcarpentry.github.io/git-novice/04-changes/index.html
+5. Viewing changes and Exploring History: status,diff,...: http://swcarpentry.github.io/git-novice/05-history/index.html
+6. Ignoring files: http://swcarpentry.github.io/git-novice/06-ignore/index.html
+7. Working on the web: clone,pull,push,...: http://swcarpentry.github.io/git-novice/07-github/index.html
+8. Collaborating: http://swcarpentry.github.io/git-novice/08-collab/index.html
+9. Resolving conflicts: http://swcarpentry.github.io/git-novice/09-conflict/index.html
+10. Open Science: http://swcarpentry.github.io/git-novice/10-open/index.html
+11. Licensing: http://swcarpentry.github.io/git-novice/11-licensing/index.html
+12. Citation: http://swcarpentry.github.io/git-novice/12-citation/index.html
+13. Hosting -- where, when and why: http://swcarpentry.github.io/git-novice/13-hosting/index.html
+14. Supplemental: Using Git from RStudio: http://swcarpentry.github.io/git-novice/14-supplemental-rstudio/index.html
 
 Repository contents include:
 
