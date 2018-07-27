@@ -21,6 +21,7 @@ Berkeley, CA 94720
 ---------
 
 Syllabus:
+
 0. Setup: http://swcarpentry.github.io/git-novice/setup.html
 1. Automated Version Control: http://swcarpentry.github.io/git-novice/01-basics/index.html
 2. Setting Up Git: http://swcarpentry.github.io/git-novice/02-setup/index.html
